@@ -148,8 +148,11 @@ body {
 	}
 	.content__blockThree {
 		flex-direction: column;
+		margin-top: 0;
 	}
 	.content__block {	
-		margin: 0;
+		margin-top: 40px;
+		margin-left: 0;
+		margin-right: 0;
 	}
 }
