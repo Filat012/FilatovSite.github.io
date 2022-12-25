@@ -141,3 +141,12 @@ body {
 	line-height: 30px;
 	margin-left: 50px;
 }
+
+@media (max-width: 575px) {	
+	.content__blockTwo {
+		flex-direction: column;
+	}
+	.content__blockThree {
+		flex-direction: column;
+	}
+}
