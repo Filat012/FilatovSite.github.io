@@ -149,4 +149,7 @@ body {
 	.content__blockThree {
 		flex-direction: column;
 	}
+	.content__block {	
+		margin: 0;
+	}
 }
